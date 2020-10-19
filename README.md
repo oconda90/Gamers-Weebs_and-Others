@@ -12,4 +12,4 @@ after playing a session is difficult.
 I am making a solution to my own problwm in hope it can help others as well. The website Gamers,Weebs and Others will provide a personalized profile where one can add their gamertag in hopes to find others to play with. However the main feature will be the ability to choose a specified
 game or show and be redirected to that small community.The main channel will have sub channels to talk about Patch Notes, experince in playing the game or simply to find people in search of people to play with. Small features will consist of adding people to a friends list and have a direct messaging system. 
 
-![Picture of Welcoming](/Users/omarconda/int 1.1/p2/images/Screen Shot 2020-10-18 at 7.19.58 PM.png)
+![Picture of Welcoming](/int 1.1/p2/images/Screen Shot 2020-10-18 at 7.19.58 PM.png)
